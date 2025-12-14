@@ -1,0 +1,6 @@
+<BloxstrapCustomBootstrapper Version="1" Height="750" Width="1000" AllowTransparency="False" Background="#000000">
+	<TitleBar Title="Roblox" ShowClose="True" ShowMinimize="False"/>
+	<Image Height="128" Width="128" Source="{Icon}" Margin="0,200,0,0" HorizontalAlignment="center"/>
+	<Image Height="32" Width="32" Source="theme://loading.gif" Margin="0,540,0,0" IsAnimated="True" HorizontalAlignment="center"/>
+	<TextBlock Name="StatusText" Width="1120" Height="30" HorizontalAlignment="Center" Margin="0,580,0,0" Foreground="#FFFFFF" FontFamily="Segoe UI Variable Display Semibold" FontWeight="Bold" FontSize="20"/>
+</BloxstrapCustomBootstrapper>
